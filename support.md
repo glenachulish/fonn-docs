@@ -1,3 +1,8 @@
+---
+title: Support
+permalink: /support
+---
+
 # Fonn — Support
 
 Fonn is a tune library for players of traditional music: the notation, the
