@@ -12,8 +12,8 @@ the internet.
 
 ## Getting help
 
-Email **callumpmaclellan@proton.me**. Say which device you are on and what you
-were doing, and include a screenshot if there is anything to see.
+Email **88_intake.troupes@icloud.com**. Say which device you are on and what
+you were doing, and include a screenshot if there is anything to see.
 
 ## Common questions
 
