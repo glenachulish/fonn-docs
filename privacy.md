@@ -1,3 +1,8 @@
+---
+title: Privacy Policy
+permalink: /privacy
+---
+
 # Privacy Policy — Fonn
 
 *Last updated: 2 September 2026*
