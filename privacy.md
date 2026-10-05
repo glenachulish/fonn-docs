@@ -1,6 +1,11 @@
+---
+title: Privacy Policy
+permalink: /privacy
+---
+
 # Privacy Policy — Fonn
 
-*Last updated: 5 October 2026*
+*Last updated: 2 September 2026*
 
 Fonn collects nothing.
 
@@ -93,23 +98,10 @@ also what keeps the library consistent: files there are named for the database
 rather than for you, and deleting one by hand would leave a tune pointing at
 something that is no longer there.
 
-## Buying the full version
-
-Fonn is free to download and lets you add up to 20 tunes. A single one-off
-in-app purchase removes that limit. The purchase is made and processed
-entirely by Apple, through the App Store. Fonn never sees your payment details,
-and the developer receives no personal information about who bought it. The app
-only asks Apple whether this Apple Account has bought the full version, and
-remembers the answer on your device. It also keeps a count of how many tunes
-you have added, on your device and in your own iCloud account (including iCloud
-Keychain), so that the limit survives a reinstall. That count is a number and
-nothing else.
-
 ## Children
 
 Fonn has no accounts, no messaging, no user-generated content visible to anyone
-else, and no advertising. The one purchase is made through Apple's App Store, as
-above. Fonn collects nothing from anyone of any age.
+else, and no purchases. It collects nothing from anyone of any age.
 
 ## Changes
 
@@ -118,4 +110,4 @@ ships, and the date at the top will say when.
 
 ## Contact
 
-Questions about privacy, or about the app: **callumpmaclellan@proton.me**
+Questions about privacy, or about the app: **88_intake.troupes@icloud.com**

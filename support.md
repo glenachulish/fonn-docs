@@ -1,3 +1,8 @@
+---
+title: Support
+permalink: /support
+---
+
 # Fonn — Support
 
 Fonn is a tune library for players of traditional music: the notation, the
@@ -7,28 +12,10 @@ the internet.
 
 ## Getting help
 
-Email **callumpmaclellan@proton.me**. Say which device you are on and what you
-were doing, and include a screenshot if there is anything to see.
+Email **88_intake.troupes@icloud.com**. Say which device you are on and what
+you were doing, and include a screenshot if there is anything to see.
 
 ## Common questions
-
-**Is Fonn free? What is the 20-tune limit?**
-Fonn is free to download. You can add up to 20 tunes of your own, free, for as
-long as you like. Everything you have added stays fully usable: you can play,
-practise, edit, build sets and export. After 20 additions you cannot add more
-until you unlock the full version with a single one-off in-app purchase. There
-is no subscription. The limit counts tunes you have added, not tunes you
-currently have, so deleting tunes does not free up places. The six starter
-tunes on iPhone do not count, and a new setting of a tune you already have
-joins it as a version rather than counting as another tune.
-
-**How do I unlock the full version, and how do I restore it?**
-Tap Unlock Fonn on the screen that opens when you reach the limit, or go to
-Settings > Full version. One purchase covers Fonn on your iPhone, iPad and Mac,
-and can be shared with your family through Family Sharing. On a new device, or
-after a reinstall, go to Settings > Full version and tap Restore Purchase, signed
-in to the same Apple Account. Payment is handled by Apple; refunds are through
-Apple at reportaproblem.apple.com.
 
 **Where are my tunes kept?**
 On your device, in the app's own storage — and, if you switch iCloud on, in your
@@ -104,7 +91,6 @@ away.
 
 ## What Fonn does not do
 
-No accounts, no subscription, no advertising, no analytics. One optional one-off
-purchase unlocks unlimited tunes. It works in flight
+No accounts, no subscription, no advertising, no analytics. It works in flight
 mode, which is the point — the places people play are often the places with no
 signal.
