@@ -81,8 +81,9 @@ storage on your device.
 If you choose **Sign in to Spotify**, you type your details into Spotify's own
 page. Fonn does not read or keep your password, and the developer receives
 nothing. Spotify's sign-in stays in Fonn's web storage on your device, and Spotify
-can see what you play. What Spotify and Bandcamp collect is theirs to describe,
-not mine.
+can see what you play. **Sign out of Spotify**, on the player's menu or in Fonn's
+Settings, removes it from that device. What Spotify and Bandcamp collect is theirs
+to describe, not mine.
 
 **Fetching instrument sounds.** Four instruments are carried inside the app so
 it plays with no signal. The rest are downloaded once, from
