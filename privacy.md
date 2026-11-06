@@ -61,8 +61,8 @@ not this one.
 catalogue, your device contacts the site you chose: abcnotation.com,
 tunearch.org, nigelgatherer.com, norbeck.nu, flutefling.scot, or any address you
 type. Importing from a YouTube link asks YouTube for the video's title. Where a
-site has no search of its own, and when you search the whole web or Spotify,
-your search words go to DuckDuckGo. Searching Bandcamp sends them to Bandcamp.
+site has no search of its own, and when you search the whole web, your search
+words go to DuckDuckGo. Searching Spotify or Bandcamp sends them to that service.
 What those services log is governed by their own policies.
 
 **Apple Music.** If you search Apple Music or play an Apple Music link, Fonn uses
